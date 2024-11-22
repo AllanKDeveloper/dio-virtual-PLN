@@ -1,7 +1,3 @@
-Here’s a structured example for a **GitHub README** file to showcase your voice-controlled YouTube opener project. You can adjust details as necessary for your specific implementation.
-
----
-
 # Voice-Controlled Assistant 🎤🎬  
 
 A Python-based virtual assistant that listens to your voice commands and opens YouTube with the desired search term. This project utilizes **Google Speech Recognition** for voice-to-text conversion and **pywhatkit** for interacting with multiples options.
